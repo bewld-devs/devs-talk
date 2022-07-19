@@ -1,4 +1,4 @@
-# Devs Talk
+# Devs Talk --Tailwind version
 
 A simple social app for devs developed using [React](https://reactjs.org/), UI using [Tailwind CSS](https://tailwindcss.com/docs/installation).
 
